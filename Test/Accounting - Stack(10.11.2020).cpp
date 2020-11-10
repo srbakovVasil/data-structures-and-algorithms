@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/contests/sda-2020-2021-test5-trgdcw/challenges/challenge-2712/submissions/code/1328070573
 #include <cmath>
 #include <cstdio>
 #include <vector>
